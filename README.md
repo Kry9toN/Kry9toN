@@ -6,6 +6,6 @@
 
 <p align="center"><a href="https://github.com/Komodo-OS-Rom/manifest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Komodo-OS-Rom&repo=manifest"></a></p>
 
-<p align="center"><a href="https://github.com/Kry9toN><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kry9toN"></a></p>
+<p align="center"><a href="https://github.com/Kry9toN"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kry9toN"></a></p>
 
 <p align="center">Thank you for visiting</p>
