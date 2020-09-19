@@ -6,3 +6,7 @@
 <p align="center"><strong>Working</strong> on :</p>
 <p align="center"><a href="https://github.com/Komodo-OS-Rom/manifest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Komodo-OS-Rom&repo=manifest&theme=highcontrast&show_owner=true"></a></p>
 <p align="center">Thank you for visiting</p>
+
+## To-Do
+- [ ] Lulus SMK (TKJ)
+- [ ] Cari pekerjaan
