@@ -1,4 +1,5 @@
 <p align="center"><strong>Wellcome to my github profile.</strong></p>
+<p align="center"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dhimas Bagus Prayoga's DEV Profile" height="30" width="30"></p>
 <p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=kry9ton&style=flat-square&color=red" alt="kry9ton"></p>
 <p align="center"><img width="100" src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif"></p>
 <p align="center"><a href="https://github.com/Kry9toN"><img src="https://github-readme-stats.vercel.app/api?username=Kry9toN&show_icons=true&theme=dracula"></a></p>
