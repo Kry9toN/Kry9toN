@@ -1,5 +1,5 @@
 # Hi there 👋 i am Dhimas
-[![KryPtoN github stats](https://komarev.com/ghpvc/?username=kry9ton&style=flat-square&color=red)](https://github.com/kry9ton)
+[![KryPtoN github stats](https://github-readme-stats.vercel.app/api?username=Kry9toN&show_icons=true&theme=dracula)](https://github.com/kry9ton)
 [![Count](https://komarev.com/ghpvc/?username=kry9ton&style=flat-square&color=red)](https://github.com/kry9ton)
 
 ## How's life
