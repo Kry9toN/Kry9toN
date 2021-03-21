@@ -13,7 +13,7 @@
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Kry9toN&theme=dracula)](https://github.com/kry9ton)
 
 ## Thropy
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kry9ton&layout=compact&theme=dracula)](https://github.com/erfanoabdi)
+[![Thropy](https://github-profile-trophy.vercel.app/?username=Kry9toN&row=2&column=3)](https://github.com/erfanoabdi)
 
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
