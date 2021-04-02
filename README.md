@@ -4,7 +4,8 @@
 
 ## How's life
 - 📱 I make rom Komodo OS
-- 💻 Currently working on Komodo OS, KryPtoN Kernel, and WhatsApp Bot
+- 💻 Currently working on Komodo OS, KryPtoN Kernel
+- 🤖 Sometimes I work on bot WhatsApp/Telegram
 
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kry9ton&layout=compact&theme=dracula)](https://github.com/kry9ton)
