@@ -1,5 +1,6 @@
 # Hi there 👋 i am Dhimas
 [![KryPtoN github stats](https://github-readme-stats.vercel.app/api?username=Kry9toN&show_icons=true&theme=dracula)](https://github.com/kry9ton)
+
 [![Count](https://komarev.com/ghpvc/?username=kry9ton&style=flat-square&color=red)](https://github.com/kry9ton)
 
 ## How's life
@@ -15,7 +16,6 @@
 
 ## Thropy
 [![Thropy](https://github-profile-trophy.vercel.app/?username=Kry9toN&row=2&column=3)](https://github.com/kry9ton)
-[![@krypton's Holopin board](https://holopin.io/api/user/board?user=krypton)](https://holopin.io/@krypton)
 
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
@@ -29,6 +29,8 @@
 ![typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+
+[![@krypton's Holopin board](https://holopin.io/api/user/board?user=krypton)](https://holopin.io/@krypton)
 
 ## How to reach me
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/dhimasbpy)
