@@ -15,6 +15,7 @@
 
 ## Thropy
 [![Thropy](https://github-profile-trophy.vercel.app/?username=Kry9toN&row=2&column=3)](https://github.com/kry9ton)
+[![@krypton's Holopin board](https://holopin.io/api/user/board?user=krypton)](https://holopin.io/@krypton)
 
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
