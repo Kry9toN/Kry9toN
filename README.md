@@ -1,4 +1,4 @@
-# Hi ma bro 👋 i'am Dhimas nice to meet you
+# Hi 👋 i'am Dhimas nice to meet you
 [![KryPtoN github stats](https://github-readme-stats.vercel.app/api?username=Kry9toN&show_icons=true&theme=dracula)](https://github.com/kry9ton)
 
 [![Count](https://komarev.com/ghpvc/?username=kry9ton&style=flat-square&color=red)](https://github.com/kry9ton)
@@ -6,7 +6,10 @@
 ## How's life
 - 📱 I make rom Komodo OS
 - 💻 Currently working on Komodo OS, KryPtoN Kernel
-- 🤖 Sometimes I work on bot WhatsApp/Telegram
+- ⚙️ Making automation script
+- 🤖 Work on bot WhatsApp/Telegram
+- ⌨️ Making apps like TB Checker and more
+- 🎮 Just making a game Garoxs Adventure
 
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kry9ton&layout=compact&theme=dracula)](https://github.com/kry9ton)
@@ -36,5 +39,5 @@
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/dhimasbpy)
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/dhimasbpy)
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/kry9ton)
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/dhimas-bagus-prayoga-8a01bb16a)
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/kry9ton)
 [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="32">](https://dev.to/kry9ton)
