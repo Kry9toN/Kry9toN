@@ -41,3 +41,6 @@
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/kry9ton)
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/kry9ton)
 [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="32">](https://dev.to/kry9ton)
+
+
+<a href="https://my.idcloudhost.com/aff.php?aff=16566"><img src="https://idcloudhost.com/wp-content/uploads/2017/01/468x60.png" height="60" width="468" border="0" alt="IDCloudHost | SSD Cloud Hosting Indonesia" /></a>
