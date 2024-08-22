@@ -1,5 +1,6 @@
 # Hi 👋 i'am Dhimas nice to meet you
 [![KryPtoN github stats](https://github-readme-stats.vercel.app/api?username=Kry9toN&show_icons=true&theme=dracula)](https://github.com/kry9ton)
+[![KryPtoN streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kry9toN&theme=dracula)](https://github.com/kry9ton)
 
 [![Count](https://komarev.com/ghpvc/?username=kry9ton&style=flat-square&color=red)](https://github.com/kry9ton)
 
