@@ -1,6 +1,8 @@
 # Hi 👋 i'am Dhimas nice to meet you
-[![KryPtoN github stats](https://github-readme-stats.vercel.app/api?username=Kry9toN&show_icons=true&theme=dracula)](https://github.com/kry9ton)
-[![KryPtoN streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kry9toN&theme=dracula)](https://github.com/kry9ton)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kry9toN&theme=dracula">
+</p>
+
 
 [![Count](https://komarev.com/ghpvc/?username=kry9ton&style=flat-square&color=red)](https://github.com/kry9ton)
 
@@ -12,8 +14,17 @@
 - ⌨️ Making apps like TB Checker and more
 - 🎮 Just making a game Garoxs Adventure
 
-## What's the weather
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kry9ton&layout=compact&theme=dracula)](https://github.com/kry9ton)
+## Statistic ?
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kry9ton&layout=compact&theme=dracula"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kry9toN&theme=dracula"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kry9toN&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kry9toN&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kry9toN&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kry9toN&theme=dracula">
+</p>
 
 ## Everyday-everynight
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Kry9toN&theme=dracula)](https://github.com/kry9ton)
