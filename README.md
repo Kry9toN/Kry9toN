@@ -1,10 +1,10 @@
 # Hi 👋 i'am Dhimas nice to meet you
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kry9toN&theme=dracula">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=kry9ton&style=flat-square&color=red"/>
 </p>
 
-
-[![Count](https://komarev.com/ghpvc/?username=kry9ton&style=flat-square&color=red)](https://github.com/kry9ton)
 
 ## How's life
 - 📱 I make rom Komodo OS
