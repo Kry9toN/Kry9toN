@@ -23,7 +23,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kry9toN&theme=dracula">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kry9toN&theme=dracula">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kry9toN&theme=dracula">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kry9toN&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kry9toN&theme=dracula&utcOffset=7">
 </p>
 
 ## Everyday-everynight
