@@ -28,7 +28,7 @@
 [![Android Apps Dev](https://skillicons.dev/icons?i=java,kotlin,flutter,dart,cpp,cmake&perline=4)](https://github.com/kry9ton)
 - **Web Dev**
 
-[![Environment](https://skillicons.dev/icons?i=php,javascript,nodejs,typescript,react,css&perline=4)](https://github.com/kry9ton)
+[![Environment](https://skillicons.dev/icons?i=html,php,javascript,nodejs,typescript,react,css&perline=4)](https://github.com/kry9ton)
 - **Software Generic Dev**
 
 [![Environment](https://skillicons.dev/icons?i=python,bash,nodejs,c,cpp,cs,rust,ruby&perline=4)](https://github.com/kry9ton)
